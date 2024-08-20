@@ -21,3 +21,7 @@ This project aims to develop a book recommendation system using collaborative fi
 1. **Data Preparation**: Load and preprocess the datasets.
 2. **Model Training**: Train the K-Nearest Neighbors model using the pivot table.
 3. **Recommendations**: Use the trained model to generate book recommendations.
+
+# Using Streamlit:
+
+![interface](image.png)
